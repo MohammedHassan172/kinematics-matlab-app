@@ -16,7 +16,7 @@ This application was created using MATLAB App Designer for a college project, an
 
 ### Example video:
 
-<video width="320" height="240" controls>
+<video width="720" height="360" controls>
   <source src="Example_video.mp4" type="video/mp4">
 </video>
 
