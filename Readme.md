@@ -16,9 +16,11 @@ This application was created using MATLAB App Designer for a college project, an
 
 ### Example video:
 
-<video width="720" height="360" controls>
-  <source src="https://github.com/MohammedHassan172/kinematics-matlab-app/blob/main/Example_video.mp4" type="video/mp4">
-</video>
+![vid](Example_video.mp4)
+
+<!-- <video width="720" height="360" controls>
+  <source src="Example_video.mp4" type="video/mp4">
+</video> -->
 
 ## installation :
 Simply drag and drop the MATLAB package file into the MATLAB console, then navigate to your apps to use it.
